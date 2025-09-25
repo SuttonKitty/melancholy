@@ -1,2 +1,1 @@
-# melancholy
-Visual representation of melancholy — made with p5.js
+# cc-midterm-SuttonFritz
